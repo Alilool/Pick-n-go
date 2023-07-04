@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+    background-image: url(./background\ img.png);
+}
+
+.be-side{
+    display: inline-block;
+}
+
+.buttons:hover{
+    cursor: pointer;
+    width: 55px;
+    height: 30px;
+}
