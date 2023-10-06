@@ -1,7 +1,6 @@
 body{
   text-align: center;
   background-image: url(./background\ img.png);
-  background-size: px;
 }
 
 .size{
@@ -9,7 +8,7 @@ width: 50%;
 height: 50%;
 }
 
-@media only screen and (max-width: 1280px) {
+@media only screen and (max-width: 1000px) {
   h1{
     font-size: 50px;
   }
